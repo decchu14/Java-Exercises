@@ -15,7 +15,7 @@ public class Main_Class extends Square {
 	public static void main(String args[])
 	{
 		Scanner sc = new Scanner(System.in);
-		System.out.println("----MENU----");
+		System.out.println("-----MENU-----");
 		System.out.println("1. Square");
 		System.out.println("2. Triangle");
 		System.out.println("3. Circle");
